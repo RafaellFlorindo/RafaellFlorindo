@@ -9,7 +9,6 @@
 ### 📌 Sobre mim
 
 - 🎓 5º período de **Ciência da Computação** na **Univertix**
-- 🔨 Desenvolvendo o projeto **Empreguei** – uma plataforma de prestação de serviços
 - 📍 Trabalho com **Google Meu Negócio**, otimização e criação de sites
 - 🌱 Atualmente estudando **Flask**, **JavaScript** e back-end web
 - 💡 Curioso por natureza e apaixonado por resolver problemas com tecnologia
