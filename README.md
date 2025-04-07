@@ -8,7 +8,7 @@
 
 ### 📌 Sobre mim
 
-- 🎓 4º período de **Ciência da Computação** na **Univertix**
+- 🎓 5º período de **Ciência da Computação** na **Univertix**
 - 🔨 Desenvolvendo o projeto **Empreguei** – uma plataforma de prestação de serviços
 - 📍 Trabalho com **Google Meu Negócio**, otimização e criação de sites
 - 🌱 Atualmente estudando **Flask**, **JavaScript** e back-end web
@@ -49,8 +49,8 @@
 
 ### 📫 Como me encontrar
 
-- 📧 Email: **[seu-email-aqui@email.com]**
-- 📱 Instagram: [@seuuser](https://instagram.com/seuuser)
+- 📧 Email: rafaelflorindodev@gmail.com
+- 📱 Instagram: https://www.instagram.com/rafaeel.florindo
 - 🌐 Portfólio: *em breve...*
 
 ---
