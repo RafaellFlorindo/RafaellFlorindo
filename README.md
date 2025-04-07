@@ -1,35 +1,56 @@
-### Hi there 👋, I'm Rafael Florindo!
+<h1 align="center">Olá! Eu sou o Rafael Florindo 👋</h1>
 
-I'm a passionate **Computer Science** student at **Univertix**, currently in my 4th semester. I enjoy building projects that solve real-world problems and help people connect with technology in smarter ways.
-
----
-
-#### 🚀 About Me
-- 🎓 19 years old, currently studying **Computer Science**  
-- 🧠 Currently learning **Flask**, **JavaScript**, and expanding my backend knowledge  
-- 💼 Working with **digital marketing**, specializing in **Google Meu Negócio** and **site creation**  
-- 🔧 Building **Empreguei**, a service platform to connect clients and professionals  
-- 💡 I love turning ideas into projects that make life easier and more organized  
+<p align="center">
+  💻 Estudante de Ciência da Computação | 🛠️ Desenvolvedor em formação | 📈 Profissional de Marketing Digital
+</p>
 
 ---
 
-#### 🛠️ Tech Stack
-- 💻 Languages: Python, JavaScript, HTML, CSS  
-- ⚙️ Frameworks: Flask (and learning more!)  
-- 🔧 Tools: Git, GitHub, VS Code, Canva  
+### 🧠 Sobre mim
+
+- 🎓 Estudante de **Ciência da Computação** na **Univertix** (4º período)
+- 👨‍💻 Atualmente desenvolvendo o projeto **Empreguei**, uma plataforma de serviços
+- 📊 Trabalho com **Marketing Digital** e **Google Meu Negócio**
+- 🌱 Aprendendo e me aprofundando em **Flask** e desenvolvimento web
+- ✨ Curioso e sempre em busca de novos desafios e soluções criativas
 
 ---
 
-#### 📫 How to reach me
-- ✉️ Email: rafaelflorindodev@gmail.com  
-- 🌐 Site: em breve...  
-- 📱 Instagram: @rafaeel.florindo  
+### 🧰 Tecnologias e Ferramentas
+
+<div style="display: flex; flex-wrap: wrap;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github"/>
+</div>
 
 ---
 
-#### ⚡ Fun fact:
-I enjoy turning everyday ideas into code — sometimes, the best inspiration comes from the simplest problems!
+### 🚀 Projetos em destaque
+
+- 🔧 **Empreguei** – Plataforma web de prestação de serviços (em desenvolvimento)
+- 📍 Otimizações e gerenciamento de perfis no **Google Meu Negócio**
 
 ---
 
-_Thanks for visiting! Let's build something cool together 😄_
+### 📫 Contato
+
+- 📧 E-mail: **[seu-email-aqui@email.com]**
+- 📱 Instagram: [@seuuser](https://instagram.com/seuuser)
+- 🌐 Portfólio: *em breve...*
+
+---
+
+### ⚡ Curiosidades
+
+- Adoro transformar ideias do dia a dia em projetos práticos
+- Sempre tento unir tecnologia e utilidade de forma simples e eficiente
+
+---
+
+<p align="center">
+  ✨ Obrigado pela visita! Vamos construir algo incrível juntos! 🚀
+</p>
