@@ -33,8 +33,8 @@ Tenho como objetivo unir habilidades técnicas com visão de negócio, desenvolv
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RafaellFlorindo&show_icons=true&theme=tokyonight&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaellFlorindo&layout=compact&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RafaellFlorindo&show_icons=true&theme=github_dark&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaellFlorindo&layout=compact&theme=github_dark"/>
 </div>
 
 ---
@@ -42,15 +42,15 @@ Tenho como objetivo unir habilidades técnicas com visão de negócio, desenvolv
 ### 📈 Contribuições recentes
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RafaellFlorindo&theme=tokyo-night&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RafaellFlorindo&theme=github-dark&hide_border=true"/>
 </div>
 
 ---
 
 ### 📫 Como me encontrar
 
-- 📧 Email: rafaelflorindodev@gmail.com
-- 📱 Instagram: @rafaeel.florindo
+- 📧 Email: rafaelflorindodev@gmail.com  
+- 📱 Instagram: @rafaeel.florindo  
 - 🌐 Portfólio: *em breve...*
 
 ---
