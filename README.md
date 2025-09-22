@@ -2,7 +2,7 @@
 
 ![header](https://img.shields.io/badge/--Bem-vindo!-brightgreen)
 
-Sou estudante de Ciência da Computação 🎓 (4º período) e desenvolvedor com foco em **Python**, **Web** (HTML/CSS/JS) e projetos com **Flask**. Atualmente trabalhando em projetos de marketing digital e em uma plataforma chamada **Empreguei**.
+Sou estudante de Ciência da Computação 🎓 (5º período) e desenvolvedor com foco em **Python**, **Web** (HTML/CSS/JS) e projetos com **Flask**. Atualmente trabalhando em projetos de marketing digital e em uma plataforma chamada **Empreguei**.
 
 ---
 
@@ -30,15 +30,7 @@ Sou estudante de Ciência da Computação 🎓 (4º período) e desenvolvedor co
 **Stack:** Flask, HTML/CSS, SQLite (ou outro RDBMS)  
 Descrição: Plataforma de prestadores de serviço onde usuários podem buscar e contratar serviços. Front-end finalizado; iniciando backend, autenticação e cadastro.
 
-### (Coloque aqui outro projeto)
-**Stack:** (ex: React, Node)  
-Descrição breve do projeto e link.
-
-> Dica: adicione links diretos aos repositórios usando o formato `[Nome do Repositório](https://github.com/seu-usuario/nome-do-repo)`.
 
 ---
 
-## 📈 Estatísticas (opcionais)
-Você pode adicionar estes cards dinâmicos (substitua `seu-usuario` pelo seu username do GitHub):
 
-- GitHub streaks / stats:
