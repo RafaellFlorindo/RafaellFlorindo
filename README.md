@@ -48,13 +48,16 @@ Não sou apenas um programador, sou um **arquiteto de soluções**. Meu foco é 
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RafaellFlorindo&show_icons=true&theme=tokyonight&hide_border=true" height="150" alt="stats graph" />
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RafaellFlorindo&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  
   <br><br>
   
   <a href="https://www.linkedin.com/in/rafael-florindo" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Conectar_Agora-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:rafael.florindo@exemplo.com">
+  
+  &nbsp; <a href="mailto:rafaelflorindodev@gmail.com">
     <img src="https://img.shields.io/badge/Email-Enviar_Mensagem-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </div>
