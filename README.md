@@ -30,7 +30,7 @@ Não sou apenas um programador, sou um **arquiteto de soluções**. Meu foco é 
 | :---: | :---: |
 | ![N8N](https://img.shields.io/badge/N8N-FF6584?style=for-the-badge&logo=n8n&logoColor=white) | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) |
 | ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white) | ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) |
-| ![GHL](https://img.shields.io/badge/GoHighLevel-1877F2?style=for-the-badge&logo=facebook&logoColor=white) | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) |
+| ![GoHighLevel](https://img.shields.io/badge/GoHighLevel-1877F2?style=for-the-badge&logo=rocket&logoColor=white) | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) |
 | ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white) | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) |
 
 </div>
@@ -48,13 +48,13 @@ Não sou apenas um programador, sou um **arquiteto de soluções**. Meu foco é 
 ---
 
 <div align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=RafaellFlorindo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaellFlorindo&layout=compact&theme=dark"/>
-</div>
-
-<div align="center">
-  <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=RafaellFlorindo&show_icons=true&theme=tokyonight&hide_border=true" height="150" alt="stats graph" />
+  <br><br>
+  
   <a href="https://www.linkedin.com/in/rafael-florindo" target="_blank">
-    <img src="https://img.shields.io/badge/Conectar_no_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Conectar_Agora-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:rafael.florindo@exemplo.com">
+    <img src="https://img.shields.io/badge/Email-Enviar_Mensagem-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </div>
