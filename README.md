@@ -1,36 +1,60 @@
-# Olá 👋, eu sou o Rafael Florindo
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=20C20E&center=true&vCenter=true&width=500&lines=Engenheiro+de+Automa%C3%A7%C3%A3o;Especialista+em+IA+%26+Vendas;Full+Stack+Developer;Python+%7C+N8N+%7C+Flask" alt="Typing SVG" />
+</div>
 
-![header](https://img.shields.io/badge/--Bem-vindo!-brightgreen)
-
-Sou estudante de Ciência da Computação 🎓 (5º período) e desenvolvedor com foco em **Python**, **Web** (HTML/CSS/JS) e projetos com **Flask**. Atualmente trabalhando em projetos de marketing digital e em uma plataforma chamada **Empreguei**.
-
----
-
-## 🚀 Sobre mim
-- 🔭 Atualmente desenvolvendo: **Empreguei** — plataforma para prestadores de serviço (front-end pronto, começando backend em Flask).
-- 🌱 Estudando: estruturas avançadas de Python, backend com Flask e boas práticas em REST APIs.
-- 👨‍💻 Tecnologias: **Python**, **Flask**, **HTML**, **CSS**, **JavaScript**, **SQL**, **Git**.
-- 🎯 Objetivo: construir aplicações que resolvam problemas reais com UI limpa e código testável.
+<div align="center">
+  <br>
+  <b>Transformando processos manuais em máquinas de vendas com IA e Código.</b>
+  <br>
+  <i>Ciência da Computação (7º Período) @ Univertix | Atuando na Ava Sales</i>
+  <br><br>
+</div>
 
 ---
 
-## 🛠️ Tecnologias & Ferramentas
+### 👨‍💻 Sobre Mim
 
-- **Linguagens:** Python, JavaScript, HTML, CSS
-- **Frameworks / Libs:** Flask, Flask-WTF
-- **Banco de dados:** SQLite / (trocar por PostgreSQL quando necessário)
-- **Ferramentas:** Git, GitHub, VS Code, Chrome DevTools
-- **Outros:** Tailwind / CSS customizado para UI
+Não sou apenas um programador, sou um **arquiteto de soluções**. Meu foco é eliminar ineficiências usando **Inteligência Artificial** e **Automação**. Atualmente lidero iniciativas técnicas na **Ava Sales**, integrando CRMs, IA generativa e sistemas web para escalar resultados.
 
----
-
-## 🔭 Projetos em destaque
-
-### Empreguei
-**Stack:** Flask, HTML/CSS, SQLite (ou outro RDBMS)  
-Descrição: Plataforma de prestadores de serviço onde usuários podem buscar e contratar serviços. Front-end finalizado; iniciando backend, autenticação e cadastro.
-
+- 🔭 **Foco Atual:** Arquitetura de automação complexa (N8N + Python) e Agentes de IA.
+- 💼 **Experiência:** Desenvolvimento de integrações para ecossistemas de vendas (GHL, WhatsApp APIs).
+- 🎓 **Formação:** Reta final em Ciência da Computação (Foco em Engenharia de Software).
 
 ---
 
+### 🛠️ Arsenal Tecnológico
 
+<div align="center">
+
+| **Automação & IA** | **Desenvolvimento Web & Backend** |
+| :---: | :---: |
+| ![N8N](https://img.shields.io/badge/N8N-FF6584?style=for-the-badge&logo=n8n&logoColor=white) | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) |
+| ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white) | ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) |
+| ![GHL](https://img.shields.io/badge/GoHighLevel-1877F2?style=for-the-badge&logo=facebook&logoColor=white) | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) |
+| ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white) | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) |
+
+</div>
+
+---
+
+### 🚀 Projetos em Destaque
+
+| Projeto | Stack | Status |
+| :--- | :--- | :--- |
+| **Empreguei (Marketplace)** | `Flask` `SQLAlchemy` `Jinja2` | *Em refatoração para Arquitetura de Microsserviços* |
+| **Sales AI Agent** | `Python` `OpenAI API` `N8N` | *Automação de qualificação de leads (Privado)* |
+| **CRM Sync Tool** | `Webhooks` `REST API` `JSON` | *Sincronização em tempo real de dados* |
+
+---
+
+<div align="center">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=RafaellFlorindo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaellFlorindo&layout=compact&theme=dark"/>
+</div>
+
+<div align="center">
+  <br>
+  <a href="https://www.linkedin.com/in/rafael-florindo" target="_blank">
+    <img src="https://img.shields.io/badge/Conectar_no_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</div>
