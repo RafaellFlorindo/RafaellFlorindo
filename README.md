@@ -63,5 +63,6 @@ Não sou apenas um programador, sou um **arquiteto de soluções**. Meu foco é 
   <br><br>
   
   <p>📧 <strong>rafaelflorindodev@gmail.com</strong></p>
+---
 
 </div>
