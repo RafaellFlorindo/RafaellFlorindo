@@ -90,3 +90,7 @@ rafaelflorindo = {
 📌 Questão central: IA generativa torna devs mais produtivos — ou apenas mais rápidos em criar problemas novos?
 
 📊 Variáveis analisadas: tempo de conclusão · qualidade do código · aprovação em testes · manutenibilidade
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:a855f7,50:6b0f9c,100:1a0033&height=120&section=footer&animation=twinkling"/>
+</div>
