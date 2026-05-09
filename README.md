@@ -1,102 +1,106 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=20C20E&center=true&vCenter=true&width=600&lines=Rafael+Florindo;Engenheiro+de+Automa%C3%A7%C3%A3o+%26+IA;Full+Stack+Developer;Python+%7C+N8N+%7C+Flask" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=20C20E&center=true&vCenter=true&width=620&lines=Ol%C3%A1%2C+eu+sou+o+Rafael+Florindo+%F0%9F%91%8B;Engenheiro+de+Automa%C3%A7%C3%A3o+%26+IA;Full+Stack+Developer;Transformando+vendas+com+c%C3%B3digo" alt="Typing SVG" />
 </div>
 
+<br>
+
 <div align="center">
-  <br>
-  <b>🚀 Transformando processos manuais em máquinas de vendas com IA e Código.</b>
+  <b>🤖 Construo sistemas que vendem, qualificam e atendem — enquanto você dorme.</b>
   <br><br>
-  <i>Ciência da Computação (7º Período) @ Univertix | Engenheiro Técnico na Ava Sales</i>
-  <br><br>
+  <i>🎓 Ciência da Computação (7º Período) · Univertix &nbsp;|&nbsp; ⚙️ Engenheiro Técnico · Ava Sales</i>
 </div>
 
 ---
 
-### 🧠 Sobre Mim
+## 🧠 Sobre Mim
 
-Não sou apenas um programador — sou um **arquiteto de soluções**. Meu foco é eliminar ineficiências usando **Inteligência Artificial** e **Automação**. Atualmente lidero iniciativas técnicas na **Ava Sales**, integrando CRMs, IA generativa e sistemas web para escalar resultados de vendas.
+Sou um **arquiteto de automações** com foco em escalar resultados comerciais usando **IA e código**. Minha missão é simples: pegar processos manuais, repetitivos e caros, e transformar em fluxos inteligentes que trabalham sozinhos.
 
-- 🎯 **Foco Atual:** Arquitetura de automação complexa (N8N + Python) e Agentes de IA.
-- 💼 **Experiência:** Desenvolvimento de integrações para ecossistemas de vendas (GHL, WhatsApp APIs).
-- 🎓 **Formação:** Reta final em Ciência da Computação — Foco em Engenharia de Software.
-- 📝 **TCC:** Análise comparativa entre reuso tradicional de código e desenvolvimento assistido por IA generativa.
+Atualmente lidero o desenvolvimento técnico na **Ava Sales**, onde integro IA generativa, CRMs e canais de comunicação para criar ecossistemas de vendas automatizados do zero.
+
+```python
+class RafaelFlorindo:
+    nome     = "Rafael de Miranda Florindo"
+    empresa  = "Ava Sales — Engenheiro Técnico"
+    formacao = "Ciência da Computação · Univertix · 7º Período"
+    stack    = ["Python", "N8N", "Flask", "GHL", "WhatsApp API", "Node.js"]
+    foco     = ["Agentes de IA", "Automação de Vendas", "Integrações CRM"]
+    missao   = "Transformar processos manuais em máquinas de resultados"
+```
 
 ---
 
-### ⚡ Arsenal Tecnológico
+## ⚡ Stack & Ferramentas
 
 <div align="center">
 
-**Automação & IA**
+**🤖 Automação & IA**
 
 ![N8N](https://img.shields.io/badge/N8N-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white)
 
-**Backend & APIs**
+**🔧 Backend & APIs**
 
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-FF6B35?style=for-the-badge&logo=postman&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_APIs-FF6B35?style=for-the-badge&logo=postman&logoColor=white)
 
-**CRM & Vendas**
+**💼 CRM & Ecossistema de Vendas**
 
 ![GoHighLevel](https://img.shields.io/badge/GoHighLevel-00B0FF?style=for-the-badge&logo=googlechrome&logoColor=white)
-![WhatsApp API](https://img.shields.io/badge/WhatsApp_API-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
+![WhatsApp](https://img.shields.io/badge/WhatsApp_API-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
 
-**Frontend & DevOps**
+**🛠️ Infra & DevOps**
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 </div>
 
 ---
 
-### 📊 GitHub Stats
+## 🔨 O que eu construo na prática
+
+| Área | O que faço |
+|------|-----------|
+| 🤖 **Agentes de IA** | Bots conversacionais com LLMs para qualificação e atendimento de leads |
+| ⚙️ **Automação N8N** | Fluxos de nutrição, distribuição de leads e follow-up automático |
+| 🔗 **Integrações GHL** | Pipelines, campanhas e automações no ecossistema GoHighLevel |
+| 📱 **WhatsApp API** | Atendimento e vendas automatizadas via WhatsApp Business |
+| 🐍 **Backend Python** | Microserviços Flask como middleware entre plataformas |
+
+---
+
+## 📚 Pesquisa & Acadêmico
+
+Meu TCC investiga um tema que vivo na prática todo dia:
+
+> **"Análise Comparativa entre Reuso Tradicional de Código e Desenvolvimento Assistido por IA Generativa: Um Experimento Controlado sobre Produtividade"**
+
+Medir se IA generativa realmente torna desenvolvedores mais produtivos — ou só mais rápidos em criar problemas novos.
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=RafaelFlorindo&show_icons=true&theme=dark&include_all_commits=true&count_private=true&border_color=20C20E&title_color=20C20E&icon_color=20C20E"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelFlorindo&layout=compact&langs_count=7&theme=dark&border_color=20C20E&title_color=20C20E"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelFlorindo&layout=compact&langs_count=6&theme=dark&border_color=20C20E&title_color=20C20E"/>
 </div>
 
 ---
 
-### 🔨 O que eu construo
-
-```python
-class RafaelFlorindo:
-    def __init__(self):
-        self.role        = "Engenheiro de Automação & IA"
-        self.empresa     = "Ava Sales"
-        self.formacao    = "Ciência da Computação — Univertix (7º período)"
-        self.stack       = ["Python", "N8N", "Flask", "GHL", "WhatsApp API"]
-        self.foco        = ["Agentes de IA", "Automação de Vendas", "Integrações CRM"]
-        self.missao      = "Transformar processos manuais em máquinas de resultados"
-
-    def trabalho_atual(self):
-        return {
-            "automacao":   "Fluxos complexos N8N para nutrição e qualificação de leads",
-            "ia":          "Agentes conversacionais com LLMs para atendimento e vendas",
-            "integracao":  "APIs GHL + WhatsApp para ecossistemas de vendas escaláveis",
-            "backend":     "Microserviços Python/Flask como middleware de automações",
-        }
-```
-
----
-
-### 📬 Vamos Conectar?
+## 📬 Bora conversar?
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rafaelflorindo)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5531997900284)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/55XXXXXXXXXXX)
 
 </div>
 
