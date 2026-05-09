@@ -7,7 +7,7 @@
 <div align="center">
   <b>🤖 Construo sistemas que vendem, qualificam e atendem — enquanto você dorme.</b>
   <br><br>
-  <i>🎓 Ciência da Computação (7º Período) · Univertix &nbsp;|&nbsp; ⚙️ Engenheiro Técnico · Ava Sales</i>
+  <i>🎓 Ciência da Computação (7º Período) · Univertix &nbsp;|&nbsp; ⚙️ Engenheiro Técnico · High Ticket Club</i>
 </div>
 
 ---
@@ -16,14 +16,14 @@
 
 Sou um **arquiteto de automações** com foco em escalar resultados comerciais usando **IA e código**. Minha missão é simples: pegar processos manuais, repetitivos e caros, e transformar em fluxos inteligentes que trabalham sozinhos.
 
-Atualmente lidero o desenvolvimento técnico na **Ava Sales**, onde integro IA generativa, CRMs e canais de comunicação para criar ecossistemas de vendas automatizados do zero.
+Atualmente lidero o desenvolvimento técnico no **High Ticket Club**, onde integro IA generativa, CRMs e canais de comunicação para criar ecossistemas de vendas automatizados do zero.
 
 ```python
 class RafaelFlorindo:
     nome     = "Rafael de Miranda Florindo"
-    empresa  = "Ava Sales — Engenheiro Técnico"
+    empresa  = "High Ticket Club — Engenheiro Técnico"
     formacao = "Ciência da Computação · Univertix · 7º Período"
-    stack    = ["Python", "N8N", "Flask", "GHL", "WhatsApp API", "Node.js"]
+    stack    = ["Python", "N8N", "Flask", "GHL", "Node.js"]
     foco     = ["Agentes de IA", "Automação de Vendas", "Integrações CRM"]
     missao   = "Transformar processos manuais em máquinas de resultados"
 ```
@@ -51,7 +51,6 @@ class RafaelFlorindo:
 **💼 CRM & Ecossistema de Vendas**
 
 ![GoHighLevel](https://img.shields.io/badge/GoHighLevel-00B0FF?style=for-the-badge&logo=googlechrome&logoColor=white)
-![WhatsApp](https://img.shields.io/badge/WhatsApp_API-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
 
 **🛠️ Infra & DevOps**
 
@@ -70,7 +69,6 @@ class RafaelFlorindo:
 | 🤖 **Agentes de IA** | Bots conversacionais com LLMs para qualificação e atendimento de leads |
 | ⚙️ **Automação N8N** | Fluxos de nutrição, distribuição de leads e follow-up automático |
 | 🔗 **Integrações GHL** | Pipelines, campanhas e automações no ecossistema GoHighLevel |
-| 📱 **WhatsApp API** | Atendimento e vendas automatizadas via WhatsApp Business |
 | 🐍 **Backend Python** | Microserviços Flask como middleware entre plataformas |
 
 ---
