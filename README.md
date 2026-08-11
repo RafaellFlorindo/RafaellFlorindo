@@ -1,105 +1,94 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6b0f9c,50:a855f7,100:1a0033&height=200&section=header&text=Rafael%20Florindo&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Engenheiro%20de%20Automação%20%26%20IA&descAlignY=58&descSize=18"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0033,50:6b0f9c,100:a855f7&height=210&section=header&text=RAFAEL%20FLORINDO&fontSize=46&fontColor=ffffff&fontAlignY=42&desc=Engenheiro%20de%20Automação%20%26%20IA%20·%20Valente%20AI&descAlignY=60&descSize=17&animation=fadeIn"/>
 
-<a href="https://linkedin.com/in/rafaelflorindo">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="https://wa.me/5531997900284">
-  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
-</a>
-<a href="mailto:seuemail@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-<a href="https://github.com/RafaellFlorindo">
-  <img src="https://komarev.com/ghpvc/?username=RafaellFlorindo&color=a855f7&style=for-the-badge&label=VISITAS"/>
-</a>
+<sub>💼 VALENTE AI · AUTOMAÇÃO & IA APLICADA A VENDAS &nbsp;&nbsp;|&nbsp;&nbsp; 🟢 HIGH TICKET CLUB — ATIVO</sub>
+
+<br/><br/>
+
+<a href="https://linkedin.com/in/rafaelflorindo"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://wa.me/5531997900284"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+<a href="mailto:seuemail@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://github.com/RafaellFlorindo"><img src="https://komarev.com/ghpvc/?username=RafaellFlorindo&color=a855f7&style=for-the-badge&label=VISITAS"/></a>
 
 </div>
 
 <br/>
 
-<img align="right" width="380" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif"/>
+### Eu construo a infraestrutura que roda a venda por trás dos bastidores
 
-## 👨‍💻 Sobre Mim
+Sou **Rafael Florindo**. Meu trabalho é pegar processo comercial manual — atendimento, qualificação, follow-up — e transformar em sistema que roda sozinho dentro de um CRM.
 
-> *"Automação não substitui pessoas. Substitui processos que nunca deveriam ter sido manuais."*
+Faço isso técnico no **High Ticket Club**, uma das maiores agências afiliadas GoHighLevel do mercado, e em paralelo opero minha própria marca, a **Valente AI**, um white-label de GoHighLevel. Curso Ciência da Computação na **Univértix** (7º período), que me dá base pra descer ao código quando o no-code trava.
 
-Sou **arquiteto de soluções** especializado em escalar operações comerciais com **IA e automação**. Não construo apenas fluxos — construo **infraestruturas inteligentes** que trabalham 24/7 gerando resultado sem intervenção humana.
-
-- 🚀 Técnico em **High Ticket Club (HTC)**, uma das maiores agências afiliadas GoHighLevel do mercado
-- 🏷️ Fundador da **Valente AI**, meu próprio white-label de GoHighLevel
-- 🎓 Ciência da Computação — **Univértix**, 7º período
-- 🤖 Foco em agentes de IA, automação de vendas e integrações de CRM
-- 📍 Minas Gerais, Brasil 🇧🇷
-
-<br clear="right"/>
+Não entrego funil bonito. Entrego pipeline rodando em produção, com IA respondendo lead às 2h da manhã.
 
 ---
 
-## 🛠️ Stack Tecnológica
+### O que eu resolvo
+
+**Lead que esfria na fila.** Agentes de IA (voz e texto) que qualificam por conversa real, pontuam intenção e só devolvem pro humano o que vale fechar.
+
+**CRM que ninguém usa.** Implantação de GoHighLevel white-label ponta a ponta — estrutura, snapshot, integração e onboarding. O sistema só serve se o time adotar.
+
+**Trabalho repetitivo que come margem.** Automações em N8N que substituem tarefa manual por fluxo: criação de subconta, distribuição de lead, scoring de call, dashboard executivo.
+
+---
+
+### Sistemas em produção
+
+| Projeto | O que faz | Stack |
+|:---|:---|:---|
+| **Agentes de voz com IA** | Atendimento e qualificação por voz, integrado ao CRM | VAPI · ElevenLabs · Twilio · GHL |
+| **Snapshots white-label** | Templates reutilizáveis de GoHighLevel por vertical de negócio | GHL · Automações |
+| **Automação de subconta** | Criação de subconta e preenchimento de custom values via onboarding | N8N · Webhooks |
+| **Scoring de call por IA** | Transcrição e nota automática de ligação de vendas contra script | N8N · IA |
+| **Funil + triagem por IA** | CRM, triagem automática de lead e dashboard executivo para cliente | GHL · IA · Dashboards |
+| **MatchGoal** | SaaS de analytics de futebol para a Copa do Mundo 2026 | Python · Times |
+
+> A maior parte dos repositórios de clientes é privada por serem sistemas em operação. Posso mostrar arquitetura e demo em conversa.
+
+---
+
+### Painel
 
 <div align="center">
 
-**🤖 Automação & IA**
-<br/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/N8N-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/>
-<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white"/>
-
-**🔧 Backend & Infra**
-<br/>
-<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-
-**💼 CRM & Vendas**
-<br/>
-<img src="https://img.shields.io/badge/GoHighLevel-00B0FF?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-<img src="https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+<img src="https://img.shields.io/badge/Repositórios-38-a855f7?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Contribuições_2026-228-a855f7?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Commits-93%25-a855f7?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/No%20GitHub_desde-2024-a855f7?style=for-the-badge"/>
 
 </div>
 
 ---
 
-## 🚀 O que entrego
+### Ferramentas
 
-| &nbsp; | Área | Entrega |
-|:---:|:---|:---|
-| 🤖 | **Agentes de IA** | Bots com LLMs para qualificação, atendimento e fechamento |
-| ⚙️ | **Automação N8N** | Fluxos de nutrição, distribuição de leads e follow-up |
-| 🔗 | **Integrações GHL** | Pipelines, campanhas e automações no GoHighLevel |
-| 🐍 | **Backend Python** | APIs e microserviços Flask/FastAPI para middleware |
-| 🔌 | **Integrações** | Conectores entre plataformas via REST e webhooks |
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=RafaellFlorindo&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=a855f7"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaellFlorindo&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7"/>
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=RafaellFlorindo&theme=tokyonight&hide_border=true&background=0d1117&ring=a855f7&fire=a855f7"/>
-</div>
+| Domínio | Stack |
+|:---|:---|
+| **Automação & IA** | Python · N8N · OpenAI · LangChain · VAPI · ElevenLabs |
+| **CRM & Vendas** | GoHighLevel · REST API · Webhooks |
+| **Backend & Infra** | Flask · FastAPI · Node.js · Docker · Linux · Git |
+| **Base** | Git · GitHub Actions · Ciência da Computação (Univértix) |
 
 ---
 
-## 🎓 Pesquisa — TCC
+### Pesquisa — TCC
 
 > **"Análise Comparativa entre Reuso Tradicional de Código e Desenvolvimento Assistido por IA Generativa"**
->
 > *Um Experimento Controlado sobre Produtividade — Univértix*
 
-📌 **Questão central:** IA generativa torna devs mais produtivos — ou apenas mais rápidos em criar problemas novos?
+📌 Questão central: IA generativa torna devs mais produtivos — ou apenas mais rápidos em criar problemas novos?
+📊 Variáveis: tempo de conclusão · qualidade do código · aprovação em testes · manutenibilidade
 
-📊 **Variáveis analisadas:** tempo de conclusão · qualidade do código · aprovação em testes · manutenibilidade
+---
+
+### Vamos conversar
+
+Se você tem um processo comercial que depende de gente fazendo a mesma coisa todo dia, provavelmente dá pra automatizar boa parte dele.
+
+[LinkedIn](https://linkedin.com/in/rafaelflorindo) · [WhatsApp](https://wa.me/5531997900284) · seuemail@gmail.com
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:a855f7,50:6b0f9c,100:1a0033&height=120&section=footer&animation=twinkling"/>
