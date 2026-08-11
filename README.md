@@ -171,8 +171,13 @@ São sistemas em operação, com dados e credenciais de clientes ativos. O que e
 <div align="center">
 
 <p align="center">
-<img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=RafaellFlorindo&show_icons=true&hide_border=true&title_color=0EA5E9&icon_color=0EA5E9&text_color=94A3B8&bg_color=0F172A&include_all_commits=true&count_private=true&cache_seconds=86400" alt="Estatísticas do GitHub" />
-<img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=RafaellFlorindo&layout=compact&hide_border=true&title_color=0EA5E9&text_color=94A3B8&bg_color=0F172A&langs_count=8&cache_seconds=86400" alt="Linguagens mais usadas" />
+<img src="https://img.shields.io/github/followers/RafaellFlorindo?style=for-the-badge&logo=github&label=Seguidores&labelColor=0F172A&color=0EA5E9" />
+<img src="https://img.shields.io/github/stars/RafaellFlorindo?affiliations=OWNER&style=for-the-badge&logo=github&label=Estrelas&labelColor=0F172A&color=0EA5E9" />
+<img src="https://img.shields.io/github/last-commit/RafaellFlorindo/RafaellFlorindo?style=for-the-badge&logo=git&label=%C3%9Altimo%20commit&labelColor=0F172A&color=0EA5E9" />
+</p>
+
+<p align="center">
+<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=RafaellFlorindo&bg_color=0F172A&color=94A3B8&title_color=0EA5E9&line=0EA5E9&point=FFFFFF&area=true&hide_border=true&custom_title=Atividade%20recente" alt="Gráfico de atividade" />
 </p>
 
 <p align="center">
