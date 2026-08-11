@@ -1,38 +1,39 @@
-<h1 align="center">Rafael Florindo</h1>
-
-<h3 align="center">Engenheiro de Automação & IA · High Ticket Club · Univertix 7º Período</h3>
-
-<br/>
-
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rafaelflorindo)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5531997900284)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@gmail.com)
-[![Visitas](https://komarev.com/ghpvc/?username=RafaelFlorindo&color=blueviolet&style=for-the-badge&label=VISITAS)](https://github.com/RafaelFlorindo)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6b0f9c,50:a855f7,100:1a0033&height=200&section=header&text=Rafael%20Florindo&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Engenheiro%20de%20Automação%20%26%20IA&descAlignY=58&descSize=18"/>
+
+<a href="https://linkedin.com/in/rafaelflorindo">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://wa.me/5531997900284">
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+</a>
+<a href="mailto:seuemail@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://github.com/RafaellFlorindo">
+  <img src="https://komarev.com/ghpvc/?username=RafaellFlorindo&color=a855f7&style=for-the-badge&label=VISITAS"/>
+</a>
 
 </div>
 
----
+<br/>
+
+<img align="right" width="380" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif"/>
 
 ## 👨‍💻 Sobre Mim
 
 > *"Automação não substitui pessoas. Substitui processos que nunca deveriam ter sido manuais."*
 
-Sou um **arquiteto de soluções** especializado em escalar operações comerciais com **IA e código**. Não construo apenas automações — construo **infraestruturas inteligentes** que trabalham 24/7 gerando resultado sem intervenção humana.
+Sou **arquiteto de soluções** especializado em escalar operações comerciais com **IA e automação**. Não construo apenas fluxos — construo **infraestruturas inteligentes** que trabalham 24/7 gerando resultado sem intervenção humana.
 
-No **High Ticket Club** lidero iniciativas técnicas conectando IA generativa, CRMs e canais digitais em ecossistemas de vendas de alta performance.
+- 🚀 Técnico em **High Ticket Club (HTC)**, uma das maiores agências afiliadas GoHighLevel do mercado
+- 🏷️ Fundador da **Valente AI**, meu próprio white-label de GoHighLevel
+- 🎓 Ciência da Computação — **Univértix**, 7º período
+- 🤖 Foco em agentes de IA, automação de vendas e integrações de CRM
+- 📍 Minas Gerais, Brasil 🇧🇷
 
-```python
-rafaelflorindo = {
-    "empresa":     "High Ticket Club — Engenheiro Técnico",
-    "formacao":    "Ciência da Computação · Univertix · 7º Período",
-    "localizacao": "Minas Gerais, Brasil 🇧🇷",
-    "stack":       ["Python", "N8N", "Flask", "FastAPI", "GHL", "Node.js"],
-    "foco":        ["Agentes de IA", "Automação de Vendas", "Integrações CRM"],
-    "missao":      "Transformar processos manuais em máquinas de resultado 🚀"
-}
-```
+<br clear="right"/>
 
 ---
 
@@ -41,33 +42,31 @@ rafaelflorindo = {
 <div align="center">
 
 **🤖 Automação & IA**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![N8N](https://img.shields.io/badge/N8N-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white)
+<br/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/N8N-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white"/>
 
 **🔧 Backend & Infra**
-
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+<br/>
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 
 **💼 CRM & Vendas**
-
-![GoHighLevel](https://img.shields.io/badge/GoHighLevel-00B0FF?style=for-the-badge&logo=googlechrome&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+<br/>
+<img src="https://img.shields.io/badge/GoHighLevel-00B0FF?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+<img src="https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 
 </div>
 
 ---
 
 ## 🚀 O que entrego
-
-<div align="center">
 
 | &nbsp; | Área | Entrega |
 |:---:|:---|:---|
@@ -77,6 +76,17 @@ rafaelflorindo = {
 | 🐍 | **Backend Python** | APIs e microserviços Flask/FastAPI para middleware |
 | 🔌 | **Integrações** | Conectores entre plataformas via REST e webhooks |
 
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=RafaellFlorindo&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=a855f7"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaellFlorindo&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7"/>
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=RafaellFlorindo&theme=tokyonight&hide_border=true&background=0d1117&ring=a855f7&fire=a855f7"/>
 </div>
 
 ---
@@ -85,12 +95,12 @@ rafaelflorindo = {
 
 > **"Análise Comparativa entre Reuso Tradicional de Código e Desenvolvimento Assistido por IA Generativa"**
 >
-> *Um Experimento Controlado sobre Produtividade — Univertix*
+> *Um Experimento Controlado sobre Produtividade — Univértix*
 
-📌 Questão central: IA generativa torna devs mais produtivos — ou apenas mais rápidos em criar problemas novos?
+📌 **Questão central:** IA generativa torna devs mais produtivos — ou apenas mais rápidos em criar problemas novos?
 
-📊 Variáveis analisadas: tempo de conclusão · qualidade do código · aprovação em testes · manutenibilidade
+📊 **Variáveis analisadas:** tempo de conclusão · qualidade do código · aprovação em testes · manutenibilidade
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:a855f7,50:6b0f9c,100:1a0033&height=120&section=footer&animation=twinkling"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:a855f7,50:6b0f9c,100:1a0033&height=120&section=footer&animation=twinkling"/>
 </div>
