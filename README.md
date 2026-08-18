@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:000000,55:000000,78:4B5563,92:9CA3AF,100:E5E7EB&text=Rafael%20Florindo&fontColor=FFFFFF&fontSize=48&fontAlignY=34&desc=GoHighLevel%20Specialist%20%C2%B7%20Automation%20Engineer&descAlignY=54&descSize=15&animation=fadeIn" width="100%" />
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="4" />
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:000000,40:374151,75:9CA3AF,100:E5E7EB" width="100%" />
 
 <br/>
 
@@ -26,8 +26,6 @@
 
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="3" />
-
 ## <img src="https://img.shields.io/badge/01-%20-000000?style=flat-square&labelColor=000000&color=8B5CF6" /> &nbsp; Quem sou
 
 > Meu trabalho é pegar processo comercial manual — atendimento, qualificação, follow-up — e transformar em **sistema que roda sozinho** dentro de um CRM.
@@ -35,8 +33,6 @@
 Faço isso como técnico na **High Ticket Club**, uma das maiores agências afiliadas GoHighLevel do mercado. Curso Ciência da Computação na Univértix (7º período), o que me dá base para descer ao código quando o no-code trava.
 
 **Não entrego funil bonito. Entrego pipeline rodando em produção.**
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="3" />
 
 ## <img src="https://img.shields.io/badge/02-%20-000000?style=flat-square&labelColor=000000&color=3B82F6" /> &nbsp; O que eu resolvo
 
@@ -77,8 +73,6 @@ Automações em N8N que substituem tarefa manual por fluxo: subconta, distribui�
 </td>
 </tr>
 </table>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="3" />
 
 ## <img src="https://img.shields.io/badge/03-%20-000000?style=flat-square&labelColor=000000&color=06B6D4" /> &nbsp; Sistemas em produção
 
@@ -126,8 +120,6 @@ Automações em N8N que substituem tarefa manual por fluxo: subconta, distribui�
 
 <sub>🔒 A maior parte dos repositórios não está pública — são implementações de cliente sob NDA.</sub>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="3" />
-
 ## <img src="https://img.shields.io/badge/04-%20-000000?style=flat-square&labelColor=000000&color=10B981" /> &nbsp; Ferramentas
 
 <div align="center">
@@ -166,8 +158,6 @@ Automações em N8N que substituem tarefa manual por fluxo: subconta, distribui�
 
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="3" />
-
 ## <img src="https://img.shields.io/badge/05-%20-000000?style=flat-square&labelColor=000000&color=F472B6" /> &nbsp; Pesquisa · TCC
 
 <details open>
@@ -188,7 +178,7 @@ Um experimento controlado sobre produtividade — Univértix.
 
 </details>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="3" />
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:000000,40:374151,75:9CA3AF,100:E5E7EB" width="100%" />
 
 <div align="center">
 
@@ -204,7 +194,7 @@ Arquitetura, decisões técnicas e demo eu mostro em conversa.
 
 <br/><br/>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="4" />
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:E5E7EB,25:9CA3AF,60:374151,100:000000" width="100%" />
 
 <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=140&color=0:E5E7EB,8:9CA3AF,22:4B5563,45:000000,100:000000" width="100%" />
 
