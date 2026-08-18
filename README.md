@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=180&color=0:000000,50:0B0B0F,100:000000&text=Rafael%20Florindo&fontColor=FFFFFF&fontSize=48&fontAlignY=42&desc=GoHighLevel%20Specialist%20%C2%B7%20Automation%20Engineer&descAlignY=62&descSize=15&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:000000,55:000000,78:4B5563,92:9CA3AF,100:E5E7EB&text=Rafael%20Florindo&fontColor=FFFFFF&fontSize=48&fontAlignY=34&desc=GoHighLevel%20Specialist%20%C2%B7%20Automation%20Engineer&descAlignY=54&descSize=15&animation=fadeIn" width="100%" />
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="4" />
 
@@ -206,6 +206,6 @@ Arquitetura, decisões técnicas e demo eu mostro em conversa.
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="4" />
 
-<img src="https://capsule-render.vercel.app/api?type=rect&section=footer&height=80&color=0:000000,50:0B0B0F,100:000000" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=140&color=0:E5E7EB,8:9CA3AF,22:4B5563,45:000000,100:000000" width="100%" />
 
 </div>
