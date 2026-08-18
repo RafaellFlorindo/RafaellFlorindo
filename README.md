@@ -1,32 +1,30 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0D0D0D,60:1a1a1a,100:D4AF37&text=Rafael%20Florindo&fontColor=D4AF37&fontSize=48&fontAlignY=32&desc=GoHighLevel%20Specialist%20%C2%B7%20Automation%20Engineer&descAlignY=52&descSize=16&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:8B5CF6,20:3B82F6,40:06B6D4,60:10B981,80:F472B6,100:EF4444&text=Rafael%20Florindo&fontColor=FFFFFF&fontSize=48&fontAlignY=34&desc=GoHighLevel%20Specialist%20%C2%B7%20Automation%20Engineer&descAlignY=54&descSize=16&animation=fadeIn" width="100%" />
 
-<a href="https://www.linkedin.com/in/rafael-florindo">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1200&color=D4AF37&center=true&vCenter=true&width=650&lines=Automa%C3%A7%C3%B5es+que+escalam.;Resultados+que+transformam.;IA+respondendo+lead+%C3%A0s+2h+da+manh%C3%A3." alt="Automações que escalam. Resultados que transformam." />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1200&color=8B5CF6,3B82F6,06B6D4,10B981,F472B6&center=true&vCenter=true&width=680&lines=Automa%C3%A7%C3%B5es+que+escalam.;Resultados+que+transformam.;IA+respondendo+lead+%C3%A0s+2h+da+manh%C3%A3." alt="Automações que escalam. Resultados que transformam." />
 
 <br/>
 
-![High Ticket Club](https://img.shields.io/badge/High_Ticket_Club-D4AF37?style=for-the-badge&labelColor=0D0D0D&color=D4AF37)
-![Automation Engineer](https://img.shields.io/badge/Automation_Engineer-0D0D0D?style=for-the-badge&labelColor=D4AF37&color=0D0D0D)
-![GoHighLevel](https://img.shields.io/badge/GoHighLevel-D4AF37?style=for-the-badge&labelColor=0D0D0D&color=D4AF37)
+![High Ticket Club](https://img.shields.io/badge/High_Ticket_Club-8B5CF6?style=for-the-badge&labelColor=1E1B4B)
+![Automation Engineer](https://img.shields.io/badge/Automation_Engineer-06B6D4?style=for-the-badge&labelColor=1E1B4B)
+![GoHighLevel](https://img.shields.io/badge/GoHighLevel-10B981?style=for-the-badge&labelColor=1E1B4B)
 
-![Ciência da Computação](https://img.shields.io/badge/Ci%C3%AAncia_da_Computa%C3%A7%C3%A3o-0D0D0D?style=flat-square&labelColor=0D0D0D&color=D4AF37)
-![Univértix](https://img.shields.io/badge/Univ%C3%A9rtix_%C2%B7_7%C2%BA_per%C3%ADodo-0D0D0D?style=flat-square&labelColor=0D0D0D&color=D4AF37)
-![Matipó · MG](https://img.shields.io/badge/Matip%C3%B3_%C2%B7_MG_%C2%B7_BR-0D0D0D?style=flat-square&labelColor=0D0D0D&color=D4AF37)
+![Ciência da Computação](https://img.shields.io/badge/Ci%C3%AAncia_da_Computa%C3%A7%C3%A3o-3B82F6?style=flat-square&labelColor=1E1B4B)
+![Univértix](https://img.shields.io/badge/Univ%C3%A9rtix_%C2%B7_7%C2%BA_per%C3%ADodo-F472B6?style=flat-square&labelColor=1E1B4B)
+![Matipó · MG](https://img.shields.io/badge/Matip%C3%B3_%C2%B7_MG_%C2%B7_BR-EF4444?style=flat-square&labelColor=1E1B4B)
 
 <br/>
 
-<a href="https://www.linkedin.com/in/rafael-florindo"><img src="https://img.shields.io/badge/LinkedIn-0D0D0D?style=for-the-badge&logo=linkedin&logoColor=D4AF37" /></a>
-<a href="mailto:seuemail@exemplo.com"><img src="https://img.shields.io/badge/E--mail-0D0D0D?style=for-the-badge&logo=gmail&logoColor=D4AF37" /></a>
-<a href="https://wa.me/55SEUNUMERO"><img src="https://img.shields.io/badge/WhatsApp-0D0D0D?style=for-the-badge&logo=whatsapp&logoColor=D4AF37" /></a>
+<a href="https://www.linkedin.com/in/rafael-florindo"><img src="https://img.shields.io/badge/LinkedIn-3B82F6?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:rafaelflorindodev@gmail.com"><img src="https://img.shields.io/badge/E--mail-EF4444?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://wa.me/5531997900284"><img src="https://img.shields.io/badge/WhatsApp-10B981?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 
 </div>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="3" />
 
-## <img src="https://img.shields.io/badge/-01-D4AF37?style=flat-square&labelColor=0D0D0D" /> &nbsp; Quem sou
+## <img src="https://img.shields.io/badge/01-8B5CF6?style=flat-square" /> &nbsp; Quem sou
 
 > Meu trabalho é pegar processo comercial manual — atendimento, qualificação, follow-up — e transformar em **sistema que roda sozinho** dentro de um CRM.
 
@@ -36,7 +34,7 @@ Faço isso como técnico na **High Ticket Club**, uma das maiores agências afil
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="3" />
 
-## <img src="https://img.shields.io/badge/-02-D4AF37?style=flat-square&labelColor=0D0D0D" /> &nbsp; O que eu resolvo
+## <img src="https://img.shields.io/badge/02-3B82F6?style=flat-square" /> &nbsp; O que eu resolvo
 
 <table>
 <tr>
@@ -46,7 +44,9 @@ Faço isso como técnico na **High Ticket Club**, uma das maiores agências afil
 
 Agentes de IA (voz e texto) que qualificam conversa real, pontuam intenção e só devolvem pro humano o que vale fechar.
 
-`VAPI` `ElevenLabs` `Conversation AI`
+![VAPI](https://img.shields.io/badge/VAPI-8B5CF6?style=flat-square)
+![ElevenLabs](https://img.shields.io/badge/ElevenLabs-8B5CF6?style=flat-square)
+![Conversation AI](https://img.shields.io/badge/Conversation_AI-8B5CF6?style=flat-square)
 
 </td>
 <td width="33%" valign="top">
@@ -55,7 +55,9 @@ Agentes de IA (voz e texto) que qualificam conversa real, pontuam intenção e s
 
 Implantação de GoHighLevel white-label ponta a ponta: estrutura, snapshot, integração e onboarding.
 
-`GHL` `Snapshots` `Onboarding`
+![GHL](https://img.shields.io/badge/GHL-06B6D4?style=flat-square)
+![Snapshots](https://img.shields.io/badge/Snapshots-06B6D4?style=flat-square)
+![Onboarding](https://img.shields.io/badge/Onboarding-06B6D4?style=flat-square)
 
 </td>
 <td width="33%" valign="top">
@@ -64,7 +66,9 @@ Implantação de GoHighLevel white-label ponta a ponta: estrutura, snapshot, int
 
 Automações em N8N que substituem tarefa manual por fluxo: subconta, distribuição de lead, scoring, dashboard.
 
-`N8N` `Webhooks` `REST API`
+![N8N](https://img.shields.io/badge/N8N-10B981?style=flat-square)
+![Webhooks](https://img.shields.io/badge/Webhooks-10B981?style=flat-square)
+![REST API](https://img.shields.io/badge/REST_API-10B981?style=flat-square)
 
 </td>
 </tr>
@@ -72,7 +76,7 @@ Automações em N8N que substituem tarefa manual por fluxo: subconta, distribui�
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="3" />
 
-## <img src="https://img.shields.io/badge/-03-D4AF37?style=flat-square&labelColor=0D0D0D" /> &nbsp; Sistemas em produção
+## <img src="https://img.shields.io/badge/03-06B6D4?style=flat-square" /> &nbsp; Sistemas em produção
 
 <table>
 <thead>
@@ -120,47 +124,47 @@ Automações em N8N que substituem tarefa manual por fluxo: subconta, distribui�
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="3" />
 
-## <img src="https://img.shields.io/badge/-04-D4AF37?style=flat-square&labelColor=0D0D0D" /> &nbsp; Ferramentas
+## <img src="https://img.shields.io/badge/04-10B981?style=flat-square" /> &nbsp; Ferramentas
 
 <div align="center">
 
 **Automação & IA**
 
-![Python](https://img.shields.io/badge/Python-0D0D0D?style=flat-square&logo=python&logoColor=D4AF37)
-![n8n](https://img.shields.io/badge/N8N-0D0D0D?style=flat-square&logo=n8n&logoColor=D4AF37)
-![OpenAI](https://img.shields.io/badge/OpenAI-0D0D0D?style=flat-square&logo=openai&logoColor=D4AF37)
-![LangChain](https://img.shields.io/badge/LangChain-0D0D0D?style=flat-square&logo=langchain&logoColor=D4AF37)
-![VAPI](https://img.shields.io/badge/VAPI-0D0D0D?style=flat-square&logoColor=D4AF37)
-![ElevenLabs](https://img.shields.io/badge/ElevenLabs-0D0D0D?style=flat-square&logo=elevenlabs&logoColor=D4AF37)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![n8n](https://img.shields.io/badge/N8N-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![VAPI](https://img.shields.io/badge/VAPI-5D3FD3?style=flat-square)
+![ElevenLabs](https://img.shields.io/badge/ElevenLabs-000000?style=flat-square&logo=elevenlabs&logoColor=white)
 
 **CRM & Vendas**
 
-![GoHighLevel](https://img.shields.io/badge/GoHighLevel-0D0D0D?style=flat-square&logoColor=D4AF37)
-![REST API](https://img.shields.io/badge/REST_API-0D0D0D?style=flat-square&logo=fastapi&logoColor=D4AF37)
-![Webhooks](https://img.shields.io/badge/Webhooks-0D0D0D?style=flat-square&logo=webhooks&logoColor=D4AF37)
-![Twilio](https://img.shields.io/badge/Twilio-0D0D0D?style=flat-square&logo=twilio&logoColor=D4AF37)
+![GoHighLevel](https://img.shields.io/badge/GoHighLevel-2F80ED?style=flat-square)
+![REST API](https://img.shields.io/badge/REST_API-009688?style=flat-square)
+![Webhooks](https://img.shields.io/badge/Webhooks-C73A63?style=flat-square&logo=webhooks&logoColor=white)
+![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=flat-square&logo=twilio&logoColor=white)
 
 **Backend & Infra**
 
-![Flask](https://img.shields.io/badge/Flask-0D0D0D?style=flat-square&logo=flask&logoColor=D4AF37)
-![FastAPI](https://img.shields.io/badge/FastAPI-0D0D0D?style=flat-square&logo=fastapi&logoColor=D4AF37)
-![Node.js](https://img.shields.io/badge/Node.js-0D0D0D?style=flat-square&logo=nodedotjs&logoColor=D4AF37)
-![Next.js](https://img.shields.io/badge/Next.js-0D0D0D?style=flat-square&logo=nextdotjs&logoColor=D4AF37)
-![Supabase](https://img.shields.io/badge/Supabase-0D0D0D?style=flat-square&logo=supabase&logoColor=D4AF37)
-![Docker](https://img.shields.io/badge/Docker-0D0D0D?style=flat-square&logo=docker&logoColor=D4AF37)
-![Linux](https://img.shields.io/badge/Linux-0D0D0D?style=flat-square&logo=linux&logoColor=D4AF37)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 **Base**
 
-![Git](https://img.shields.io/badge/Git-0D0D0D?style=flat-square&logo=git&logoColor=D4AF37)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0D0D0D?style=flat-square&logo=githubactions&logoColor=D4AF37)
-![Vercel](https://img.shields.io/badge/Vercel-0D0D0D?style=flat-square&logo=vercel&logoColor=D4AF37)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 
 </div>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="3" />
 
-## <img src="https://img.shields.io/badge/-05-D4AF37?style=flat-square&labelColor=0D0D0D" /> &nbsp; Pesquisa · TCC
+## <img src="https://img.shields.io/badge/05-F472B6?style=flat-square" /> &nbsp; Pesquisa · TCC
 
 <details open>
 <summary><b>Análise Comparativa entre Reuso Tradicional de Código e Desenvolvimento Assistido por IA Generativa</b></summary>
@@ -184,24 +188,16 @@ Um experimento controlado sobre produtividade — Univértix.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=RafaellFlorindo&show_icons=true&hide_border=true&bg_color=0D0D0D&title_color=D4AF37&text_color=FFFFFF&icon_color=D4AF37&ring_color=D4AF37" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaellFlorindo&layout=compact&hide_border=true&bg_color=0D0D0D&title_color=D4AF37&text_color=FFFFFF" height="165" />
-
-</div>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="3" />
-
-<div align="center">
-
 ### Quer ver rodando?
 
 Arquitetura, decisões técnicas e demo eu mostro em conversa.
 
-<a href="https://www.linkedin.com/in/rafael-florindo"><img src="https://img.shields.io/badge/Falar_comigo_no_LinkedIn-D4AF37?style=for-the-badge&logo=linkedin&logoColor=0D0D0D&labelColor=D4AF37" /></a>
-<a href="mailto:seuemail@exemplo.com"><img src="https://img.shields.io/badge/Me_mandar_um_e--mail-0D0D0D?style=for-the-badge&logo=gmail&logoColor=D4AF37" /></a>
+<a href="https://www.linkedin.com/in/rafael-florindo"><img src="https://img.shields.io/badge/Falar_comigo_no_LinkedIn-3B82F6?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://wa.me/5531997900284"><img src="https://img.shields.io/badge/Chamar_no_WhatsApp-10B981?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+<a href="mailto:rafaelflorindodev@gmail.com"><img src="https://img.shields.io/badge/Me_mandar_um_e--mail-EF4444?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=100&color=0:D4AF37,100:0D0D0D" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:EF4444,20:F472B6,40:10B981,60:06B6D4,80:3B82F6,100:8B5CF6" width="100%" />
 
 </div>
