@@ -1,409 +1,351 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=170&color=0:09090B,50:18181B,100:7C3AED&text=Rafael%20Florindo&fontColor=FFFFFF&fontSize=42&fontAlignY=35&desc=Automation%20%26%20AI%20Engineer&descAlignY=56&descSize=17"/>
+<!-- Substitua pela sua imagem local para evitar banner quebrado -->
 
-### Building intelligent systems that automate real operations.
+<img src="./assets/github-header.png" width="100%" alt="Rafael Florindo — Automation & AI Engineer" />
+
+<br/>
+
+### Automation & AI Engineer
+
+Building systems, automations and AI workflows that turn manual operations into scalable infrastructure.
+
+<br/>
 
 <p>
   <a href="https://www.linkedin.com/in/rafael-florindo">
-    <img src="https://img.shields.io/badge/LinkedIn-18181B?style=for-the-badge&logo=linkedin&logoColor=7C3AED"/>
+    <img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=8B5CF6" />
   </a>
   <a href="mailto:rafaelflorindodev@gmail.com">
-    <img src="https://img.shields.io/badge/Email-18181B?style=for-the-badge&logo=gmail&logoColor=7C3AED"/>
+    <img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=8B5CF6" />
   </a>
   <a href="https://wa.me/5531997900284">
-    <img src="https://img.shields.io/badge/WhatsApp-18181B?style=for-the-badge&logo=whatsapp&logoColor=7C3AED"/>
+    <img src="https://img.shields.io/badge/WhatsApp-111111?style=for-the-badge&logo=whatsapp&logoColor=8B5CF6" />
   </a>
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/GoHighLevel-18181B?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/n8n-18181B?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenAI-18181B?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-18181B?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-18181B?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/Supabase-18181B?style=flat-square&logoColor=white" />
 </p>
 
 </div>
 
 ---
 
-## 👨‍💻 About me
+## About me
 
-```yaml
-name: Rafael Florindo
-role: Automation & AI Engineer
+I build **automation systems, AI agents and CRM integrations** focused on real-world operations.
 
-focus:
-  - AI Agents
-  - Business Automation
-  - CRM Architecture
-  - APIs & Integrations
-  - SaaS Development
+Currently, I work on technical implementations involving **GoHighLevel, n8n, APIs, AI agents and internal tools**, creating solutions that reduce manual work and improve operational efficiency.
 
-working_with:
-  - GoHighLevel
-  - n8n
-  - OpenAI
-  - Python
-  - Next.js
-  - Supabase
-```
+My main focus areas are:
 
-Trabalho desenvolvendo **automações, agentes de IA e sistemas integrados a CRM** para transformar processos operacionais manuais em infraestruturas automatizadas.
+* AI agents for support, qualification and operations
+* process automation and workflow orchestration
+* CRM architecture and implementation
+* API integrations and backend systems
+* SaaS products and internal tools
 
-Atualmente atuo com implementações técnicas na **High Ticket Club**, principalmente com **GoHighLevel, n8n, APIs, agentes de IA e integrações**.
+I also study **Computer Science at Univértix**.
 
-Também curso **Ciência da Computação na Univértix**.
-
-> **Meu foco não é apenas automatizar tarefas.
-> É transformar operações em sistemas.**
+> I do not focus on “pretty funnels”.
+> I focus on **systems that actually run in production**.
 
 ---
 
-## ⚡ What I build
+## Core expertise
 
 <table>
 <tr>
+<td width="33%" valign="top">
 
-<td width="50%" valign="top">
+### AI Agents
 
-### 🤖 AI Agents
+Design and implementation of intelligent agents for:
 
-Agentes inteligentes para:
+* lead qualification
+* voice interaction
+* automated support
+* conversational workflows
+* scoring and routing
 
-* atendimento;
-* qualificação;
-* vendas;
-* suporte;
-* voz;
-* triagem.
-
-**Stack**
-
+**Tools**
 `OpenAI` `VAPI` `ElevenLabs` `Twilio`
 
 </td>
+<td width="33%" valign="top">
 
-<td width="50%" valign="top">
+### Automation
 
-### ⚙️ Automation
+Automation of repetitive and operational processes through:
 
-Automação de processos utilizando:
+* workflow orchestration
+* API connections
+* webhook-based events
+* internal process logic
+* data movement between systems
 
-* webhooks;
-* APIs;
-* workflows;
-* event-driven flows;
-* integrações entre plataformas.
-
-**Stack**
-
-`n8n` `Python` `REST API` `Webhooks`
+**Tools**
+`n8n` `Python` `REST APIs` `Webhooks`
 
 </td>
+<td width="33%" valign="top">
 
-</tr>
+### CRM Systems
 
-<tr>
+Implementation and structuring of CRM environments with:
 
-<td width="50%" valign="top">
+* pipelines
+* workflows
+* custom values
+* onboarding flows
+* lead routing
+* snapshot architecture
 
-### 🧩 CRM Architecture
-
-Implementações completas de CRM:
-
-* pipelines;
-* workflows;
-* snapshots;
-* onboarding;
-* lead routing;
-* scoring.
-
-**Stack**
-
-`GoHighLevel` `n8n` `APIs`
+**Tools**
+`GoHighLevel` `APIs` `Automation`
 
 </td>
-
-<td width="50%" valign="top">
-
-### 💻 Software
-
-Aplicações integradas com automações e IA.
-
-* SaaS;
-* dashboards;
-* APIs;
-* backends;
-* bancos de dados.
-
-**Stack**
-
-`Next.js` `Node.js` `Python` `Supabase`
-
-</td>
-
 </tr>
 </table>
 
 ---
 
-# 🚀 Selected Projects
+## Selected projects
 
-## 🎙️ AI Voice Agents
+### 1. AI Voice Agents
 
-> Agentes de IA capazes de atender, qualificar e direcionar leads automaticamente por telefone.
+Voice-based AI agents integrated with CRM workflows for lead qualification and automated handling.
 
-```mermaid
-flowchart LR
-    A[Incoming Lead] --> B[AI Voice Agent]
-    B --> C{Qualified?}
-    C -->|Yes| D[CRM Pipeline]
-    C -->|No| E[Follow-up]
-    D --> F[Sales Team]
-    E --> B
-```
+**What it does**
 
-**Tecnologias**
+* answers inbound interactions
+* qualifies the lead automatically
+* applies routing logic
+* triggers follow-up actions
+* sends qualified opportunities to the sales team
 
-`VAPI` · `ElevenLabs` · `Twilio` · `GoHighLevel`
+**Stack**
+`VAPI` `ElevenLabs` `Twilio` `GoHighLevel`
 
 ---
 
-## 🏗️ Automated GHL Provisioning
+### 2. Automated GHL Provisioning
 
-Provisionamento automático de subcontas GoHighLevel a partir do onboarding do cliente.
+Automation for creating and configuring GoHighLevel subaccounts from onboarding data.
 
-```text
+**Flow**
+
+```text id="3qrr1h"
 Client Form
-     ↓
+   ↓
 Webhook
-     ↓
+   ↓
 n8n
-     ↓
+   ↓
 GoHighLevel API
-     ↓
-Subaccount
-     ↓
-Custom Values
-     ↓
-Ready to use
+   ↓
+Subaccount Creation
+   ↓
+Custom Values Setup
+   ↓
+Ready to Use
 ```
 
-### O sistema automatiza
+**What it automates**
 
-* criação da estrutura;
-* preenchimento de Custom Values;
-* configuração inicial;
-* distribuição de dados;
-* preparação da subconta.
+* subaccount creation
+* initial setup
+* custom values population
+* workflow preparation
+* onboarding structure delivery
 
 **Stack**
-
-`n8n` · `GoHighLevel API` · `Webhooks`
+`n8n` `GoHighLevel API` `Webhooks`
 
 ---
 
-## 📊 AI Call Scoring
+### 3. AI Call Scoring
 
-Pipeline de inteligência artificial para análise automática de ligações comerciais.
+Pipeline for automatic analysis of sales calls using transcription and AI evaluation.
 
-```text
+**Process**
+
+```text id="59iwv0"
 Sales Call
-    ↓
+   ↓
 Transcription
-    ↓
+   ↓
 LLM Analysis
-    ↓
+   ↓
 Script Comparison
-    ↓
-Score
-    ↓
-Dashboard
+   ↓
+Scoring
+   ↓
+Dashboard / Report
 ```
 
-Analisa fatores como:
+**Main outputs**
 
-* aderência ao script;
-* objeções;
-* qualidade da abordagem;
-* etapas da call;
-* oportunidades de melhoria.
+* script adherence evaluation
+* objection identification
+* call quality scoring
+* improvement suggestions
+* commercial analysis support
 
 **Stack**
-
-`OpenAI` · `Whisper` · `n8n` · `Google Sheets`
+`OpenAI` `Whisper` `n8n` `Google Sheets`
 
 ---
 
-## 🚦 AI Lead Qualification
+### 4. AI Lead Qualification
 
-CRM com triagem automática e roteamento inteligente de oportunidades.
+CRM workflow with intelligent qualification, scoring and routing.
 
-```mermaid
-flowchart LR
-    A[Lead] --> B[AI Qualification]
-    B --> C[Lead Scoring]
-    C --> D{Product}
-    D --> E[Pipeline A]
-    D --> F[Pipeline B]
-    D --> G[Pipeline C]
-```
+**Capabilities**
+
+* automatic lead triage
+* product-based distribution
+* score assignment
+* funnel routing
+* executive visibility
 
 **Stack**
-
-`GoHighLevel` · `n8n` · `Next.js` · `Supabase`
-
----
-
-## 📦 GoHighLevel Snapshots
-
-Estruturas de CRM reutilizáveis para diferentes segmentos.
-
-```text
-Snapshots
-├── Advocacia
-├── Odontologia
-├── Concessionárias
-├── Clínicas
-├── Estética
-└── Franquias
-```
-
-Cada estrutura pode incluir:
-
-`Pipelines` · `Workflows` · `Calendars` · `Forms` · `Custom Values` · `Automations`
+`GoHighLevel` `n8n` `Next.js` `Supabase`
 
 ---
 
-## ⚽ MatchGoal
+### 5. GoHighLevel Snapshots
 
-SaaS de analytics esportivo desenvolvido com foco na **Copa do Mundo de 2026**.
+Reusable CRM systems built for different business verticals.
 
-```text
-Football Data
-      ↓
-Data Processing
-      ↓
-Supabase
-      ↓
-Analytics Engine
-      ↓
-Next.js Dashboard
-```
+**Examples**
+
+* legal
+* dentistry
+* automotive
+* aesthetics
+* franchises
+* service businesses
+
+**Can include**
+
+`Pipelines` `Workflows` `Calendars` `Forms` `Custom Values` `Automations`
+
+---
+
+### 6. MatchGoal
+
+Sports analytics SaaS project created around football data and dashboarding.
 
 **Stack**
-
-`Next.js` · `Supabase` · `Vercel` · `n8n`
-
----
-
-> 🔒 Parte das implementações profissionais está em repositórios privados ou vinculada a projetos de clientes.
+`Next.js` `Supabase` `Vercel` `n8n`
 
 ---
 
-# 🛠️ Tech Stack
+> Some of the professional work I do is private or client-based, so not every implementation can be publicly shared here.
+
+---
+
+## Tech stack
 
 <div align="center">
 
-### AI & Automation
+### Automation & AI
 
-<img src="https://skillicons.dev/icons?i=python" height="45"/>
-&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/n8n/EA4B71" height="45"/>
-&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/openai/FFFFFF" height="45"/>
+<img src="https://skillicons.dev/icons?i=python" height="42" />
+&nbsp;
+<img src="https://cdn.simpleicons.org/n8n/EA4B71" height="42" />
+&nbsp;
+<img src="https://cdn.simpleicons.org/openai/FFFFFF" height="42" />
 
 <br/><br/>
 
-`OpenAI` · `n8n` · `VAPI` · `ElevenLabs` · `LangChain`
+### Backend & Web
 
----
+<img src="https://skillicons.dev/icons?i=python,nodejs,fastapi,flask,nextjs" height="42" />
 
-### Backend
+<br/><br/>
 
-<img src="https://skillicons.dev/icons?i=python,nodejs,fastapi,flask" height="45"/>
+### Database & Infra
 
----
+<img src="https://skillicons.dev/icons?i=supabase,postgres,docker,linux,vercel" height="42" />
 
-### Frontend
+<br/><br/>
 
-<img src="https://skillicons.dev/icons?i=nextjs,js,ts,html,css" height="45"/>
+### Dev Tools
 
----
-
-### Database & Infrastructure
-
-<img src="https://skillicons.dev/icons?i=supabase,postgres,docker,linux,vercel" height="45"/>
-
----
-
-### Development
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode" height="45"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode" height="42" />
 
 </div>
 
 ---
 
-# 🧠 Current Focus
+## Current focus
 
-```javascript
-const currentlyExploring = [
-  "AI Agents",
-  "Multi-Agent Systems",
-  "LLM Workflows",
-  "AI + CRM",
-  "Automation Architecture",
-  "Developer Tools with AI"
+```ts id="hyme3m"
+const currentFocus = [
+  "AI agents",
+  "workflow automation",
+  "CRM architecture",
+  "LLM-powered operations",
+  "API integrations",
+  "internal tools and SaaS systems"
 ];
 ```
 
 ---
 
-# 🎓 Research
+## Research
 
 ### Generative AI × Software Engineering
 
-**Análise Comparativa entre Reuso Tradicional de Código e Desenvolvimento Assistido por IA Generativa**
+**Comparative Analysis Between Traditional Code Reuse and Development Assisted by Generative AI**
 
-Pesquisa experimental desenvolvida na **Univértix** sobre o impacto da IA generativa na produtividade de desenvolvedores.
+Academic research developed at **Univértix** exploring how generative AI impacts software development productivity and code quality.
 
-O estudo analisa:
+**Key evaluation factors**
 
-| Métrica             | Objetivo                      |
-| ------------------- | ----------------------------- |
-| ⏱️ Tempo            | Velocidade de desenvolvimento |
-| ✅ Corretude         | Resultado funcional           |
-| 🧹 Qualidade        | Estrutura e legibilidade      |
-| 🧪 Testes           | Aprovação funcional           |
-| 🔧 Manutenibilidade | Facilidade de evolução        |
+* development speed
+* code quality
+* correctness
+* test approval
+* maintainability
 
-### Questão central
-
-> **A IA torna desenvolvedores realmente mais produtivos ou apenas mais rápidos?**
+> Central question:
+> **Does generative AI make developers truly more productive — or just faster?**
 
 ---
 
-# 📈 GitHub
+## GitHub stats
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=rafaelflorindo&show_icons=true&hide_border=true&bg_color=09090B&title_color=8B5CF6&icon_color=8B5CF6&text_color=A1A1AA"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=rafaelflorindo&show_icons=true&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=8B5CF6&text_color=C9D1D9" />
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelflorindo&layout=compact&hide_border=true&bg_color=09090B&title_color=8B5CF6&text_color=A1A1AA"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelflorindo&layout=compact&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=C9D1D9" />
 
 </div>
 
 ---
 
+## Contact
+
+If you want to talk about **AI Agents, Automation, CRM Systems, APIs or SaaS**, feel free to reach out.
+
 <div align="center">
 
-## Let's build something.
-
-**AI Agents · Automation · CRM · APIs · SaaS**
-
-<br/>
-
 <a href="https://www.linkedin.com/in/rafael-florindo">
-<img src="https://img.shields.io/badge/LET'S_CONNECT-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Connect_on_LinkedIn-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 <br/><br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=100&color=0:7C3AED,50:18181B,100:09090B"/>
+**[rafaelflorindodev@gmail.com](mailto:rafaelflorindodev@gmail.com)**
 
 </div>
