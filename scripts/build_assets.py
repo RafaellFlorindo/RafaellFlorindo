@@ -274,7 +274,7 @@ def header(num, title, note):
 
 HEADERS = [
     ("01", "WHAT I BUILD", "// the layers behind revenue operations"),
-    ("02", "SELECTED WORK", "// real systems, most of them in production"),
+    ("02", "SELECTED WORK", "// a few things I have shipped"),
     ("03", "RESEARCH", "// generative AI × software engineering"),
     ("04", "TOOLKIT", "// what I reach for, and why"),
     ("05", "HOW I WORK", "// AI as an execution and review layer"),
@@ -332,11 +332,11 @@ def footer():
 
 def main():
     files = {
-        "hero.svg": hero(),
+        "banner.svg": hero(),
         "metrics.svg": metrics(),
         "research.svg": research(),
         "capabilities.svg": capabilities(),
-        "footer.svg": footer(),
+        "outro.svg": footer(),
     }
     for num, title, note in HEADERS:
         files[f"h-{num}.svg"] = header(num, title, note)
