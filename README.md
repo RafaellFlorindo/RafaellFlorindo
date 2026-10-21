@@ -12,18 +12,12 @@
   <img src="./assets/terminal.svg" width="100%" alt="Terminal: whoami — Rafael Florindo, Automation & AI Engineer from Minas Gerais, Brazil.">
 </p>
 
-## About
+<h3 align="center">I don't automate clicks. I engineer the system behind the operation.</h3>
 
-**I don't automate clicks. I engineer the system behind the operation.**
-
-I'm an **Automation & AI Engineer** from Brazil. I build the technical layer behind revenue operations: AI agents that qualify and book, CRM architecture that doesn't fall apart at scale, API integrations, internal tools and multi-tenant SaaS.
-
-At **High Ticket Club** I work as a GoHighLevel & automation specialist and run the daily *Office Hours*, supporting members live. As an implementer at **Valente AI** I ship client systems, white-label environments, onboarding automation and dashboards. On the side, I build my own products.
-
-My work lives between two layers that are usually treated separately:
-
-- **fast operational delivery** with GoHighLevel, n8n, webhooks and AI services;
-- **real product engineering** with TypeScript, Python, Postgres, workers, tests and production safeguards.
+<p align="center">
+  Automation & AI Engineer from Brazil 🇧🇷 — building the technical layer behind revenue operations:<br>
+  <b>AI agents</b> that qualify and book · <b>CRM architecture</b> that scales · <b>integrations</b> · <b>internal tools</b> · <b>multi-tenant SaaS</b>
+</p>
 
 <p align="center">
   <img src="./assets/stats.svg" width="100%" alt="694 automated tests · 17 production workflows · ~30 calendars routed by AI · 55.8% faster with AI (thesis)">
@@ -31,9 +25,30 @@ My work lives between two layers that are usually treated separately:
 
 <img src="./assets/divider.svg" width="100%" alt="">
 
-## Research: generative AI × software engineering
+## ⚡ What I build
 
-Computer Science at **Univértix** (final stretch). My thesis re-analyzes data from a controlled experiment comparing conventional development with GitHub Copilot, and was presented as a poster at **FAVE 2026**.
+| | |
+| --- | --- |
+| 🤖 **AI agents** | Agents that qualify leads, answer, route and book — with human handoff and guardrails, not just a prompt |
+| 🧩 **CRM infrastructure** | GoHighLevel architecture, snapshots, white-label environments and pipelines that don't collapse at scale |
+| 🔌 **Integrations** | APIs, webhooks and n8n workflows with retries, idempotency and partial-failure handling |
+| 🛠️ **Product engineering** | TypeScript, Python, Postgres, workers and tests — internal tools and multi-tenant SaaS |
+
+My work lives between two layers that are usually treated separately: **fast operational delivery** (GoHighLevel, n8n, webhooks, AI services) and **real product engineering** (typed code, databases, tests, production safeguards).
+
+## 💼 Where I work
+
+| Company | Role | What I do |
+| --- | --- | --- |
+| **High Ticket Club** | GoHighLevel & Automation Specialist | Build automations and run the daily *Office Hours*, supporting members live |
+| **Valente AI** | Implementer | Ship client systems, white-label environments, onboarding automation and dashboards |
+| **Independent** | Builder | My own products, from idea to production |
+
+<img src="./assets/divider.svg" width="100%" alt="">
+
+## 🔬 Research: generative AI × software engineering
+
+Computer Science at **Univértix** (final stretch). My thesis re-analyzes data from a controlled experiment comparing conventional development with GitHub Copilot — presented as a poster at **FAVE 2026**.
 
 | Metric | Conventional | Copilot-assisted |
 | --- | ---: | ---: |
@@ -42,11 +57,12 @@ Computer Science at **Univértix** (final stretch). My thesis re-analyzes data f
 | Difference | | **55.8% faster** · `p = 0.0017` |
 | Functional tests | | +7 p.p. · *not statistically significant* |
 
-The honest conclusion is narrow: **strong evidence of speed, not enough evidence of better quality.** That's exactly why I keep tests, security review and human judgment inside every AI-assisted workflow I run.
+> **Strong evidence of speed, not enough evidence of better quality.**
+> That's why tests, security review and human judgment stay inside every AI-assisted workflow I run.
 
 <img src="./assets/divider.svg" width="100%" alt="">
 
-## Stack
+## 🧰 Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=ts,js,python,react,nextjs,nodejs,tailwind,astro,vite&theme=dark&perline=9" alt="TypeScript, JavaScript, Python, React, Next.js, Node.js, Tailwind, Astro, Vite"><br>
@@ -54,8 +70,16 @@ The honest conclusion is narrow: **strong evidence of speed, not enough evidence
   <img src="https://skillicons.dev/icons?i=flask,fastapi,vitest,playwright,cloudflare,obsidian,vscode,figma&theme=dark&perline=9" alt="Flask, FastAPI, Vitest, Playwright, Cloudflare, Obsidian, VS Code, Figma">
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/GoHighLevel-111118?style=for-the-badge&logoColor=A78BFA" alt="GoHighLevel">
+  <img src="https://img.shields.io/badge/n8n-111118?style=for-the-badge&logo=n8n&logoColor=A78BFA" alt="n8n">
+  <img src="https://img.shields.io/badge/Claude_Code-111118?style=for-the-badge&logo=anthropic&logoColor=A78BFA" alt="Claude Code">
+  <img src="https://img.shields.io/badge/OpenAI-111118?style=for-the-badge&logo=openai&logoColor=A78BFA" alt="OpenAI">
+  <img src="https://img.shields.io/badge/Webhooks_&_APIs-111118?style=for-the-badge&logo=postman&logoColor=A78BFA" alt="Webhooks & APIs">
+</p>
+
 <details>
-<summary><b>🧠 How I work with AI (the multi-agent setup)</b></summary>
+<summary><b>🧠 How I work with AI — the multi-agent setup</b></summary>
 <br>
 
 I use AI as an execution and review layer, not just a chat window.
@@ -70,13 +94,17 @@ I use AI as an execution and review layer, not just a chat window.
 
 </details>
 
-## How I build
+<details>
+<summary><b>📐 How I build — 5 principles</b></summary>
+<br>
 
 1. **Production over demos.** Retries, partial data, API failures and human handoff are design inputs.
 2. **Explicit business logic.** Tools change; the operational contract shouldn't disappear inside platform clicks.
 3. **Reusable delivery.** Recurring work becomes snapshots, schemas, templates, agents and tested workflows.
 4. **Cost and security are architecture.** Tenant isolation, API margins and privacy are product constraints.
 5. **Proof over badges.** Tests, deployments and decisions carry more weight than a list of logos.
+
+</details>
 
 <img src="./assets/divider.svg" width="100%" alt="">
 
@@ -90,7 +118,8 @@ I use AI as an execution and review layer, not just a chat window.
 
 ## Let's build the system behind the idea
 
-Working on **AI agents, revenue automation, CRM infrastructure, internal tools or SaaS**? Let's talk.
+Working on **AI agents, revenue automation, CRM infrastructure, internal tools or SaaS**?<br>
+I'm open to projects and collaborations — let's talk.
 
 <a href="https://www.linkedin.com/in/rafael-florindo"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-111118?style=for-the-badge&logo=linkedin&logoColor=A78BFA" alt="Connect on LinkedIn"></a> <a href="mailto:rafaelflorindodev@gmail.com"><img src="https://img.shields.io/badge/Send_an_email-111118?style=for-the-badge&logo=gmail&logoColor=A78BFA" alt="Send an email"></a>
 
