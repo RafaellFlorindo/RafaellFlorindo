@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/hero.svg" width="100%" alt="Rafael Florindo — Automation & AI Engineer. I engineer the system behind the operation.">
+  <img src="./assets/banner.svg" width="100%" alt="Rafael Florindo — Automation & AI Engineer. I engineer the system behind the operation.">
 </p>
 
 <p align="center">
@@ -28,20 +28,9 @@ I work between two layers that are usually treated separately: **fast operationa
 
 <img src="./assets/h-02.svg" width="100%" alt="02 — Selected work">
 
-<p align="center">
-  <img src="./assets/project-escaluz.svg" width="49%" alt="Escaluz — offer-intelligence SaaS. 154 test files, CI, multi-tenant, worker queue.">
-  <img src="./assets/project-sof-juridico.svg" width="49%" alt="SOF Jurídico — practice-management SaaS for law firms with an AI intake agent, row-level security and mobile apps.">
-</p>
-<p align="center">
-  <img src="./assets/project-zapcrm.svg" width="49%" alt="ZapCRM — a CRM inside WhatsApp Web, shipped as a Chrome extension (v1.16).">
-  <img src="./assets/project-htc-ops.svg" width="49%" alt="HTC Ops — customer-success cockpit where Claude drafts messages under human-approval autonomy levels.">
-</p>
-<p align="center">
-  <img src="./assets/project-growth-dialer.svg" width="49%" alt="Growth Dialer — parallel dialer SaaS with AI voice agents (beta).">
-  <img src="./assets/project-gravacao-automatica.svg" width="49%" alt="Gravação Automática — camera-free AI video pipeline driven by Claude Code.">
-</p>
+<img src="./assets/work.svg" width="100%" alt="Selected work: Escaluz, SOF Jurídico, ZapCRM, HTC Ops, Growth Dialer, Gravação Automática">
 
-<sub>Most of these are client or commercial code, so the repositories are private — happy to walk through any of them on a call. Public samples: <a href="https://github.com/RafaellFlorindo/NotaZen"><b>NotaZen</b></a> (finance PWA for MEIs, integer-cent money, CSV-injection safe, Vitest) and <a href="https://github.com/RafaellFlorindo/Skills-Claude"><b>Skills-Claude</b></a> (my curated Claude Code skill library).</sub>
+<sub>Most of it is private client and product code. Public samples: <a href="https://github.com/RafaellFlorindo/NotaZen">NotaZen</a> · <a href="https://github.com/RafaellFlorindo/Skills-Claude">Skills-Claude</a></sub>
 
 <br><br>
 
@@ -72,7 +61,7 @@ Computer Science at **Univértix** (final stretch). My thesis re-analyzes a cont
 
 <img src="./assets/h-05.svg" width="100%" alt="05 — How I work">
 
-| | How |
+| Stage | How |
 | --- | --- |
 | **Context** | An Obsidian second brain that agents read and maintain: decisions, projects, patterns |
 | **Orchestration** | A lead agent decomposes the work; specialists take frontend, backend and tests in separate worktrees |
@@ -95,9 +84,9 @@ Computer Science at **Univértix** (final stretch). My thesis re-analyzes a cont
 <br>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RafaellFlorindo/RafaellFlorindo/output/snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RafaellFlorindo/RafaellFlorindo/output/snake.svg">
-  <img alt="Contribution graph being eaten by a snake" src="https://raw.githubusercontent.com/RafaellFlorindo/RafaellFlorindo/output/snake-dark.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RafaellFlorindo/RafaellFlorindo/output/snake-dark.svg?v=2">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RafaellFlorindo/RafaellFlorindo/output/snake.svg?v=2">
+  <img alt="Contribution graph being eaten by a snake" src="https://raw.githubusercontent.com/RafaellFlorindo/RafaellFlorindo/output/snake-dark.svg?v=2" width="100%">
 </picture>
 
 <div align="center">
@@ -110,4 +99,4 @@ AI agents · revenue automation · CRM infrastructure · internal tools · SaaS
 
 </div>
 
-<img src="./assets/footer.svg" width="100%" alt="End of transmission — thanks for stopping by">
+<img src="./assets/outro.svg" width="100%" alt="End of transmission — thanks for stopping by">
