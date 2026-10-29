@@ -1,59 +1,35 @@
-# Rafael Florindo
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:6366f1&height=200&section=header&text=Rafael%20Florindo&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Automation%20%26%20AI%20Engineer&descAlignY=58&descSize=18" width="100%" alt="Rafael Florindo — Automation & AI Engineer"/>
 
-**Automation & AI engineer.** I build the systems that run sales and operations: CRMs, AI agents, integrations and the software that holds them together.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1200&color=6366F1&center=true&vCenter=true&width=520&lines=I+build+systems+that+run+themselves.;CRMs+%C2%B7+AI+agents+%C2%B7+automation;GoHighLevel+%2B+real+code." alt="Typing SVG"/>
+</p>
 
-Most automation breaks where no-code tools meet real code. I work on both sides of that line: fast delivery in GoHighLevel and n8n, and proper engineering (TypeScript, Python, Postgres, tests) when the platform stops being enough.
+<p align="center">
+  <a href="https://www.linkedin.com/in/rafael-florindo"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:rafaelflorindodev@gmail.com"><img src="https://img.shields.io/badge/Email-6366F1?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+</p>
 
-[LinkedIn](https://www.linkedin.com/in/rafael-florindo) · [Email](mailto:rafaelflorindodev@gmail.com) · Minas Gerais, Brazil · PT / EN
+<br>
 
----
+<p align="center">
+  🇧🇷 Minas Gerais, Brazil<br>
+  ⚡ GoHighLevel & Automation Specialist at <b>High Ticket Club</b><br>
+  🎓 Computer Science at <b>Univértix</b>
+</p>
 
-### Right now
+<br>
 
-- **High Ticket Club**: GoHighLevel and automation specialist. I build member operations and host the daily *Office Hours* live.
-- **Valente AI**: implementer. Client CRMs, white-label environments, onboarding automation and dashboards.
-- **My own products**: SaaS and internal tools, from idea to production.
-- **Univértix**: final stretch of a Computer Science degree.
+<h3 align="center">Stack</h3>
 
-### Selected work
+<p align="center">
+  <img src="https://img.shields.io/badge/GoHighLevel-1e293b?style=flat-square" alt="GoHighLevel"/>
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" alt="n8n"/>
+  <img src="https://img.shields.io/badge/Claude%20Code-D97757?style=flat-square&logo=anthropic&logoColor=white" alt="Claude Code"/>
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI"/>
+</p>
 
-| Project | What it does | Stack |
-| :-- | :-- | :-- |
-| **SOF Jurídico** | <!-- TODO: one line --> Platform for legal practice operations | TypeScript · Postgres |
-| **ZapCRM** | <!-- TODO: one line --> | |
-| **Escaluz** | <!-- TODO: one line --> | |
-| **HTC Ops** | <!-- TODO: one line --> Internal operations tooling for the HTC community | |
-| **Growth Dialer** | <!-- TODO: one line --> | |
-| **Gravação Automática** | <!-- TODO: one line --> Automated recording and clipping pipeline | |
-| **AI receptionists** | WhatsApp agents that triage and book across ~30 service calendars in GoHighLevel | GHL · n8n · OpenAI |
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,py,react,nextjs,nodejs,tailwind,postgres,supabase,prisma,docker,linux,vercel,cloudflare,githubactions&perline=8" alt="Tech stack"/>
+</p>
 
-Most of this is private client or product code. Public samples: [**NotaZen**](https://github.com/RafaellFlorindo/NotaZen) · [**Skills-Claude**](https://github.com/RafaellFlorindo/Skills-Claude)
-
-### Research
-
-My thesis re-analyzes a controlled experiment comparing conventional development with GitHub Copilot (presented at **FAVE 2026**).
-
-- Copilot-assisted developers finished **55.8% faster**: 160.89 → 71.17 min (p = 0.0017, n = 35 + 35).
-- Functional tests improved by 7 p.p., but **not** significantly.
-
-Strong evidence of speed, weak evidence of quality. That's why tests and human review stay inside every AI-assisted workflow I run.
-
-### How I work
-
-1. **Production over demos.** Retries, partial data, API failures and human handoff are part of the design.
-2. **Business logic stays explicit.** It lives in code and docs, not hidden in platform clicks.
-3. **Recurring work becomes reusable.** Snapshots, schemas, templates, tested workflows.
-4. **Cost and security are architecture.** Tenant isolation, API budgets and privacy from day one.
-5. **AI writes, I verify.** Claude Code and Codex do the typing; tests, cross-model review and approval gates decide what ships.
-
-### Stack
-
-**Automation** GoHighLevel · n8n · Webhooks · Twilio · WhatsApp APIs
-**AI** Claude Code · Codex CLI · OpenAI · VAPI · ElevenLabs
-**Product** TypeScript · Python · React · Next.js · Node.js · Tailwind
-**Data & infra** Postgres · Supabase · Prisma · Docker · Vercel · Cloudflare · GitHub Actions
-**Quality** Vitest · Playwright
-
----
-
-Have an operation that should run itself? [Let's talk.](mailto:rafaelflorindodev@gmail.com)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:0f172a&height=100&section=footer" width="100%" alt=""/>
