@@ -1,1 +1,15 @@
-<img src="./banner.svg" width="100%" alt="Rafael Florindo — Automation & AI Engineer"/> <p align="center"> GoHighLevel & Automation Specialist at <b>High Ticket Club</b> &nbsp;·&nbsp; Computer Science at <b>Univértix</b> &nbsp;·&nbsp; Brazil </p> <p align="center"> <a href="https://www.linkedin.com/in/rafael-florindo"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a> <a href="mailto:rafaelflorindodev@gmail.com"><img src="https://img.shields.io/badge/Email-6366F1?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a> </p> <br> <p align="center"> <img src="https://skillicons.dev/icons?i=ts,js,py,react,nextjs,nodejs,tailwind,postgres,supabase,prisma,docker,vercel,cloudflare,githubactions&perline=7" alt="Tech stack"/> </p> <p align="center"> <img src="https://img.shields.io/badge/GoHighLevel-1e293b?style=flat-square" alt="GoHighLevel"/> <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" alt="n8n"/> <img src="https://img.shields.io/badge/Claude%20Code-D97757?style=flat-square&logo=anthropic&logoColor=white" alt="Claude Code"/> <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI"/> </p>
+<div align="center">
+Rafael Florindo
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&duration=3000&pause=1000&color=8B949E&center=true&vCenter=true&width=600&lines=Automation+%26+AI+Engineer;I+build+systems+that+run+themselves." alt="Automation & AI Engineer"/> <br>
+
+I build CRMs, AI agents and the automations that run sales and operations,<br> from no-code platforms like GoHighLevel and n8n to production code in TypeScript and Python.
+
+GoHighLevel & Automation Specialist at High Ticket Club · Computer Science at Univértix · Brazil
+
+<br>
+
+LinkedIn  ·  Email
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=ts,py,react,nextjs,nodejs,postgres,supabase,docker,vercel,cloudflare&theme=dark" height="36" alt="Stack"/> </div>
